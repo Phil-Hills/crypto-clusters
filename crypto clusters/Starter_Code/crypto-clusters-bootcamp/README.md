@@ -1,4 +1,4 @@
-#![](../../../10-5-challenge-image.png) Crypto Currency Analysis visual tool
+#![](../../../10-5-challenge-image.png) Crypto Currency Analysis visual tool.
 A Jupyter Notebook combined with Python that visually clusters cryptocurrency assets by performance in different time periods..
 
 
